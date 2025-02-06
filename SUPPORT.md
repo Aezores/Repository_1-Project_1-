@@ -16,7 +16,8 @@ You can contact me on either Discord of via Gmail (whichever you prefer).
 Discord: embruh_gaming#9306 (Displayname: << Aezores >>).
 
 Gmail: aezores10@gmail.com (specifically for game-related stuff (suggestions & bug-reports)).
-   or: elmerlidlof10@gmail.com (for anything (discussions, suggestions, etc.), I check this mail more often).
+
+Or: elmerlidlof10@gmail.com (for anything (discussions, suggestions, etc.), I check this mail more often).
 
 ### Format your report like this:
 
